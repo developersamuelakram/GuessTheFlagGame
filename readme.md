@@ -11,7 +11,7 @@ This app has.
 5. ArrayList
 6. Kotlin Object. 
 
-# YouTube Tutorial: https://www.youtube.com/watch?v=hZSj0HbOh44&list=PLKETiCsEsH0p47hA84bapGVaXIKHgjVdl
+### YouTube Tutorial: https://www.youtube.com/playlist?list=PLKETiCsEsH0qhD3dOfrvJqKYQrYFTVTWJ
 
 ### Title Fragement
 ![](images/1.png)
