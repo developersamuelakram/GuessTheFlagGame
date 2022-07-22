@@ -13,8 +13,11 @@ This app has.
 
 # YouTube Tutorial: https://www.youtube.com/watch?v=hZSj0HbOh44&list=PLKETiCsEsH0p47hA84bapGVaXIKHgjVdl
 
-![](1.jpg)
+### Title Fragement
+![](images/1.jpg)
 
-=![](2.jpg)
+### Game Fragment
+![](images/2.jpg)
 
-![](3.jpg)
+### Score Fragment
+![](images/3.jpg)
