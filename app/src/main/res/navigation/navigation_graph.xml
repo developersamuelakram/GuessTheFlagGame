@@ -35,7 +35,9 @@
         android:label="ScoreFragment" >
         <action
             android:id="@+id/action_scoreFragment_to_titleFragment"
-            app:destination="@id/titleFragment" />
+            app:destination="@id/titleFragment"
+            app:popUpTo="@id/titleFragment"
+            app:popUpToInclusive="true" />
         <argument
             android:name="score"
             app:argType="integer"
